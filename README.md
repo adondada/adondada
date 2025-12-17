@@ -14,37 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script src="https://tryhackme.com/badge/1951940"></script>
-<a href="https://wigle.net">
-<img border="0" src="https://wigle.net/bi/wTj_ZvXm6r4zuMDQgof3Lw.png">
-</a>
-
-fps
-
-<div align="center">
-
-  <a href="https://wigle.net">
-    <img src="https://wigle.net/bi/wTj_ZvXm6r4zuMDQgof3Lw.png" alt="Wigle Stats" height="80" />
-  </a>
-  
-  <br/><br/>
-
-  <a href="https://tryhackme.com/p/alternativehacker">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/alternativehacker.png" alt="TryHackMe Stats" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://ringzer0ctf.com/profile/53675">
-    <img src="https://img.shields.io/badge/RingZer0-adondada-black?style=for-the-badge&logo=flag&logoColor=white&color=D0202A" alt="RingZer0 Profile" />
-  </a>
-
-</div>
-
-
-fps
-
-
 <table align="center">
   <tr>
     <td align="center" width="50%">

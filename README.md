@@ -18,3 +18,48 @@ Here are some ideas to get you started:
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/wTj_ZvXm6r4zuMDQgof3Lw.png">
 </a>
+
+
+<div align="center">
+
+  <a href="https://wigle.net">
+    <img src="https://wigle.net/bi/wTj_ZvXm6r4zuMDQgof3Lw.png" alt="Wigle Stats" height="80" />
+  </a>
+  
+  <br/><br/>
+
+  <a href="https://tryhackme.com/p/alternativehacker">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/alternativehacker.png" alt="TryHackMe Stats" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://ringzer0ctf.com/profile/53675">
+    <img src="https://img.shields.io/badge/RingZer0-adondada-black?style=for-the-badge&logo=flag&logoColor=white&color=D0202A" alt="RingZer0 Profile" />
+  </a>
+
+</div>
+
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://wigle.net">
+        <img src="https://wigle.net/bi/wTj_ZvXm6r4zuMDQgof3Lw.png" alt="Wigle Stats" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://tryhackme.com/p/alternativehacker">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/alternativehacker.png" alt="TryHackMe" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://ringzer0ctf.com/profile/53675">
+        <img src="https://img.shields.io/badge/RingZer0_CTF-adondada-black?style=for-the-badge&logo=flag&logoColor=white&color=D0202A" />
+      </a>
+    </td>
+  </tr>
+</table>

@@ -36,4 +36,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<a href = "https://fightchatcontrol.eu/">https://fightchatcontrol.eu/</a>
+<a href="https://fightchatcontrol.eu/">
+  <img src="https://img.shields.io/badge/Protect_Privacy-Fight_Chat_Control-ec4899?style=for-the-badge&logo=shield&logoColor=white" alt="Fight Chat Control" />
+</a>

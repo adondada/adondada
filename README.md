@@ -35,3 +35,5 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<a href = "https://fightchatcontrol.eu/">https://fightchatcontrol.eu/</a>

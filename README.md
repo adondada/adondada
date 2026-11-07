@@ -42,3 +42,9 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+### Tools & small website fixes
+
+[Free Shopify CSV checker](https://catalog-preflight-antony.adondada.chatgpt.site/?utm_source=github&utm_medium=profile&utm_campaign=sample-first#checker) · [Working frontend demo](https://catalog-preflight-antony.adondada.chatgpt.site/frontend-demo.html?utm_source=github&utm_medium=profile&utm_campaign=sample-first) · [Demos and scoped services](https://catalog-preflight-antony.adondada.chatgpt.site/offers.html?utm_source=github&utm_medium=profile&utm_campaign=sample-first)
+
+I offer scoped fixes for supplied product CSVs and reproducible frontend layout bugs. Scope is reviewed before any quote or payment. File-only CSV work needs no store password.
